@@ -26,7 +26,7 @@ Este programa simula um sistema completo de gerenciamento de tarefas via termina
 
 ## 🛠️ Tecnologias e Conceitos Utilizados
 
-* **Linguagem C** (Padrão C99)
+* **Linguagem C**
 * **Alocação e Manipulação de Memória:** Estruturas (`struct`), typedefs e ponteiros.
 * **Estruturas de Dados Lineares Estáticas:**
   * Fila Circular (`Queue`)
